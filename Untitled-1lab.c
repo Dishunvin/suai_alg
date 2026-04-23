@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+int lab_1() {
     double l, v1, t, v2;
 
     // Input data

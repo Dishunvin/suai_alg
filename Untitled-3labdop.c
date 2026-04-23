@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 
-int main() {
+int lab_3d() {
     int c;
     int in_word = 0;
     int count = 0;

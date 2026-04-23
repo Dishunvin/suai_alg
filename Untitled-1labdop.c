@@ -1,14 +1,7 @@
 #include <stdio.h>
+#include "lib/functions.h"
 
-double v2_res(double L, double v1,double t){
-    
-
-
-return ( L - v1 * t) / t;
-
-}
-
-int main() {
+int lab_1d() {
     double L, v1, t, v2;
 
     // Data input

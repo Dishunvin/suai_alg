@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int lab_2() {
     int N;
     float sum = 0;
 

@@ -2,7 +2,7 @@
 #include <stdio.h>
 #define N 10
 
-int main()
+int lab_5()
 {
     int arr[N];
     float result[N];     

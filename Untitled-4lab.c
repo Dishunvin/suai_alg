@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int lab_4() {
     char text[1000];
     char result[1000] = {0};  
     int i = 0, j = 0;
